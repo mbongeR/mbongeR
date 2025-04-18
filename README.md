@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbongeR
 - 👀 I’m interested in data science and visualization
-- 🌱 I’m currently learning an undergraduate degree in Informatics at NUST, Zimbabwe
+- 🌱 I’m currently learning an undergraduate degree in Informatics and analytics at NUST, Zimbabwe
 - 💞️ I’m looking to collaborate on the extraction of data to draw meaningful insights
 - 📫 How to reach me redeemmbonge792@gmail.com
   
